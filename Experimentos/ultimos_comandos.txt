@@ -1,0 +1,605 @@
+    1  pwd
+    2  cd home
+    3  pwd
+    4  cd ~
+    5  ls
+    6  cd personalProjets
+    7  ls
+    8  cd index.html
+    9  ls
+   10  code .
+   11  cat index.html
+   12  cd ~
+   13  sudo apt-get update
+   14  sudo apt-get upgrade
+   15  sudo apt-get update
+   16  sudo apt-get upgrade
+   17  sudo apt install nodejs
+   18  node -v
+   19  sudo apt install npm
+   20  pwd
+   21  cd personalProjets
+   22  pwd
+   23  ls
+   24  mkdir test
+   25  ls
+   26  cd test
+   27  npx create-react-app prueba
+   28  sudo npx create-react-app prueba
+   29  pwd
+   30  ls
+   31  npx create-react-app prueba
+   32  sudo npx create-react-app prueba
+   33  cd prueba
+   34  npm start
+   35  pwd
+   36  code 
+   37  code .
+   38  ls
+   39  personalProjects
+   40  pwd
+   41  ls
+   42  cd personalProjects
+   43  ls
+   44  pwd
+   45  cd ..
+   46  cd personalProjects
+   47  cd ..
+   48  pwd
+   49  cd ~
+   50  pwd
+   51  git --version
+   52  apt-get update
+   53  sudo apt-get upgrade
+   54  sudo apt install git
+   55  ssh-keygen -t rsa -b 4096 -c "jberroteranj@gmail.com"
+   56  clear
+   57  ssh-keygen -t rsa -b 4096 -C "jberroteranj@gmail.com"
+   58  eval "$(ssh-agent -s)"
+   59  ssh-copy-id [jberroteranj@gmail.com]
+   60  ssh-copy-id "jberroteranj@gmail.com"
+   61  ssh-add ~/.ssh/id-rsa
+   62  ssh-add ~/.ssh/id_rsa
+   63  vi ~/.ssh/id_rsa.pub
+   64  ls
+   65  cd ~
+   66  pwd
+   67  ls
+   68  cd personalProjets
+   69  ls
+   70  rm inde.html
+   71  cd ..
+   72  pwd
+   73  ls
+   74  git rm -r personalProjets
+   75  ls
+   76  pwd
+   77  ls
+   78  git rm -r personalProjets
+   79  rm -r personalProjets
+   80  ls
+   81  cd personalProjets
+   82  ls
+   83  git rm -r test
+   84  cd ..
+   85  pwd
+   86  ls
+   87  cd ..
+   88  pwd
+   89  ls
+   90  cd ~
+   91  ls
+   92  cd mnt
+   93  cd ..
+   94  ls
+   95  cd mnt
+   96  ls
+   97  cd c
+   98  ls
+   99  cd Users
+  100  ls
+  101  cd berro
+  102  ls
+  103  cd ~
+  104  ls
+  105  mkdir proyectosNuevos
+  106  ls
+  107  rm  -R personalProjets
+  108  ls
+  109  rm personalProjets
+  110  ls
+  111  rm -r personalProjets
+  112  cd personalProjets/
+  113  ls
+  114  rm -r test
+  115  cd test/
+  116  ls
+  117  cd prueba/
+  118  ls
+  119  rm README.md
+  120  ls
+  121  cd ..
+  122  lis
+  123  ls
+  124  sudo rm -r prueba/
+  125  ls
+  126  cd prueba/
+  127  ls
+  128  cd ..
+  129  sudo rm -R prueba
+  130  ls
+  131  sudo rm -R test
+  132  ls
+  133  pwd
+  134  cd ..
+  135  ls
+  136  rm -R personalProjets/
+  137  ls
+  138  pwd
+  139  apt list --upgrade
+  140  apt list --upgradable
+  141  sudo apt-get update
+  142  sudo apt-get upgrade
+  143  cd ~
+  144  pwd
+  145  ls
+  146  pwd
+  147  ls
+  148  cd mnt
+  149  cd ..
+  150  ls
+  151  cd ..
+  152  ls
+  153  pwd
+  154  cd ..
+  155  ls
+  156  cd mnt
+  157  ls
+  158  cd c
+  159  ls
+  160  cd Users
+  161  ks
+  162  ls
+  163  cd berro
+  164  ls
+  165  cd personalProjects/
+  166  ls
+  167  pwd
+  168  cd
+  169  cd ~
+  170  ls
+  171  cd
+  172  ls
+  173  cd ~
+  174  ls
+  175  ls -la
+  176  ls -lS
+  177  ls -lSh
+  178  ls -lr
+  179  tree
+  180  tree --version
+  181  sudo apt-get install tree
+  182  sudo apt-get update
+  183  tree --version
+  184  tree
+  185  ls
+  186  cd
+  187  ls
+  188  mkdir miDirectorio
+  189  mrk miCarpeta1 miCarpeta2 miCarpeta3
+  190  mrkdir miCarpeta1 miCarpeta2 miCarpeta3
+  191  ls
+  192  mkdir miCarpeta1 miCarpeta2 miCarpeta3
+  193  ls
+  194  cd miCarpeta1
+  195  touch file1 file2 file3
+  196  ls
+  197  cp file1 file_culo
+  198  ls
+  199  mv file_culo ..
+  200  ls
+  201  cd ..
+  202  ls
+  203  mv file_culo file_nalgas
+  204  ls
+  205  mv file_nalgas miCarpeta1
+  206  ls
+  207  cd miCarpeta1
+  208  ls
+  209  cd ..
+  210  cd miCarpeta1
+  211  ls
+  212  rm file_nalgas 
+  213  ls
+  214  cd ..
+  215  ls
+  216  rm -i miCarpeta3
+  217  rm -i miCarpeta2
+  218  rm -i miCarpeta1
+  219  cd miCarpeta1
+  220  ls
+  221  rm -i file1
+  222  ls
+  223  cd ..
+  224  ls
+  225  tree -L 2
+  226  mv miCarpeta1 miCarpeta2
+  227  tree -L 2
+  228  ls miCarpeta2
+  229  ls
+  230  rm -rf miCarpeta3
+  231  ls
+  232  rm -ri miCarpeta2
+  233  ls
+  234  cd miDirectorio/
+  235  ls
+  236  cd ..
+  237  ls
+  238  microsoft-edge --new.tab https://google.co.ve
+  239  microsoft-edge --new.window
+  240  cd
+  241  ls
+  242  nautilus proyectosNuevos/
+  243  sudo apt install nautilus
+  244  nautilus proyectosNuevos/
+  245  explorer.exe
+  246  ls
+  247  wslview proyectosNuevos/
+  248  cd proyectosNuevos/
+  249  ls
+  250  pwd
+  251  cd
+  252  ls
+  253  cd ~
+  254  ls
+  255  cd ..
+  256  ls
+  257  cd ..
+  258  ls
+  259  cd mnt
+  260  ls
+  261  cd c
+  262  ls
+  263  cd Users
+  264  ls
+  265  cd berro/
+  266  ls
+  267  wslview personalProjects/
+  268  explorer.exe.
+  269  explorer.exe
+  270  ls
+  271  cd personalProjects/
+  272  ls
+  273  mdkdir ddr1
+  274  ls
+  275  mkdir ddr1
+  276  ls
+  277  mkdir arch.txt
+  278  ls
+  279  rm -r arch.txt/
+  280  ls
+  281  tocuh miHistoria
+  282  touch miHistoria
+  283  ls
+  284  wslview miHistoria.txt
+  285  touch miHistory.txt
+  286  ls
+  287  sudo apt-get-update
+  288  sudo apt-get update
+  289  sudo apt-get upgrade
+  290  cd
+  291  type
+  292  type cd
+  293  type mkdir
+  294  type ls
+  295  ls
+  296  code .
+  297  code
+  298  help cd
+  299  man cd
+  300  whatit cd
+  301  whatits cd
+  302  echo $0
+  303  ls
+  304  tree
+  305  tree -L
+  306  alias arbolito = "tree"
+  307  alias arbolito="tree"
+  308  arbolito
+  309  man cd
+  310  man ls
+  311  whatis cd
+  312  whatis ls
+  313  whatis git
+  314  whatis cd
+  315  whatis pwd
+  316  whatis move
+  317  whatis mv
+  318  whatis cp
+  319  whatis rm
+  320  whatis alias
+  321  whatis help
+  322  ls
+  323  pwd
+  324  ls
+  325  cd personalProjects/
+  326  ls
+  327  ls ddr1/
+  328  ls
+  329  ls miHistoria
+  330  cd miHistoria
+  331  cd ddr1
+  332  ls
+  333  cd .
+  334  cd ..
+  335  ls
+  336  rm ddr1/
+  337  rm -ri ddr1/
+  338  ls
+  339  rm miHistoria miHistory.txt
+  340  ls
+  341  touch arch1 arch2 arch3 text.txt text2.txt text3.tx4
+  342  ls
+  343  mkdir miTexto
+  344  ls
+  345  mkdir miArchivo 
+  346  ls
+  347  ls *
+  348  ls *txt
+  349  rm text3.tx4
+  350  ls
+  351  touch text3.txt text4.txt
+  352  ls
+  353  ls *txt
+  354  ls arch*
+  355  ls
+  356  mv *.txt miTexto/
+  357  ls
+  358  mv [[:lower:]]* miArchivo/
+  359  ls
+  360  ls miArchivo/
+  361  tree
+  362  cd miArchivo/
+  363  ls
+  364  mv miTexto ..
+  365  ls
+  366  cd ..
+  367  ls
+  368  sudo apt-get update
+  369  sudo apt-get upgrade
+  370  pwd
+  371  cd
+  372  ls
+  373  pwd
+  374  sudo apt-get update
+  375  sudo apt-get upgrade
+  376  pwd
+  377  ls
+  378  cd
+  379  ls
+  380  cd miDirectorio/
+  381  ls
+  382  cd ..
+  383  ls
+  384  cd proyectosNuevos/
+  385  ls
+  386  cd
+  387  ls
+  388  pwd
+  389  cd ..
+  390  ls
+  391  cd bdjotajota/
+  392  ls
+  393  pwd
+  394  cd ..
+  395  ls
+  396  cd mnt
+  397  ls
+  398  cd c
+  399  ls
+  400  cd Users/
+  401  ls
+  402  cd berro/
+  403  ls
+  404  cd personalProjects/
+  405  ls
+  406  tree -L 2
+  407  file miArchivo/
+  408  cd .. miArchivo/
+  409  ls
+  410  cd miArchivo/
+  411  ls
+  412  mv arch1 /..miTexto
+  413  mv arch1 /.. miTexto
+  414  mv arch1 /miTexto
+  415  cd .
+  416  cd ..
+  417  ls
+  418  cd miTexto/
+  419  ls
+  420  touch text5.txt
+  421  ls
+  422  rm text5.txt
+  423  ls
+  424  mv text4.txt /..miArchivo
+  425  mv text4.txt /.. miArchivo
+  426  mv text4.txt /..
+  427  mv text4.txt /miArchivo
+  428  mv text4.txt ..miArchivo
+  429  ls
+  430  cd ..
+  431  ls
+  432  cd miArchivo/
+  433  ls
+  434  tree -L 2
+  435  cd ..
+  436  ls
+  437  cd ..
+  438  ls
+  439  cd personalProjects/
+  440  ls
+  441  tree -L 2
+  442  cd miArchivo/
+  443  -a
+  444  ls -a
+  445  ls -R
+  446  cd arch1
+  447  cd ..
+  448  ls
+  449  cd miTexto/
+  450  ls
+  451  ls -a
+  452  cd ..miArchivo
+  453  ls
+  454  cd ../miArchivo/
+  455  ls
+  456  cd ..
+  457  ls
+  458  cd miTexto/
+  459  ls -a
+  460  rm -ri ..miArchivo
+  461  ls -a
+  462  mkdir text4.txt
+  463  ls
+  464  rm -ri text4.txt
+  465  ls
+  466  touch text4.txt
+  467  ls
+  468  mv text4 ..
+  469  mv text4 .. miArchivo
+  470  mv text4.txt .. miArchivo
+  471  mv text4.txt ..
+  472  ls
+  473  cd ..
+  474  ls
+  475  mv text4.txt miArchivo/
+  476  ls
+  477  cd miArchivo/
+  478  ls
+  479  cd ..
+  480  ls
+  481  cd 'Nueva carpeta'/
+  482  ls
+  483  cd ..
+  484  cd Videos/
+  485  ls
+  486  cd Captures/
+  487  ls
+  488  cd ..
+  489  ls
+  490  cd ..
+  491  ls
+  492  mkdir experimentos
+  493  ls
+  494  rm experimentos/
+  495  -r experimentos/
+  496  ls
+  497  rm experimentos/ -r
+  498  ls
+  499  cd Videos/
+  500  ls
+  501  mkdir Experimentos
+  502  ls
+  503  ls Captures > misarchivo.txt
+  504  ls
+  505  less misarchivo.txt 
+  506  cd Videos/
+  507  ls
+  508  cd
+  509  ls
+  510  cd
+  511  ls
+  512  pwd
+  513  cd ..
+  514  ls
+  515  cd ..
+  516  ls
+  517  cd mnt
+  518  ls
+  519  cd c
+  520  cd Users/berro/
+  521  ls
+  522  Downloads/ >> Videos/misarchivo.txt 
+  523  ls
+  524  cd Downloads/
+  525  ls
+  526  cd ..
+  527  ls
+  528  ls Downloads/ >> Videos/misarchivo.txt 
+  529  cd Videos/
+  530  ls -l
+  531  ls -l /dev/std*
+  532  date
+  533  who
+  534  sudo apt-get update
+  535  sudo apt-get upgrade
+  536  pwd
+  537  ls
+  538  tree -L
+  539  tree -l
+  540  pwd
+  541  ls
+  542  cd Videos/
+  543  ls
+  544  rm -ri misarchivo.txt 
+  545  ls
+  546  cd Experimentos/
+  547  ls
+  548  cd ..
+  549  cd Captures/
+  550  ls
+  551  ls -a
+  552  cd ..
+  553  ls
+  554  cd personalProjects/
+  555  ls
+  556  echo "HolaJotaJota"
+  557  echo "Hola JotaJota"
+  558  ls
+  559  tree -l
+  560  less
+  561  ls less
+  562  ls -lh
+  563  le -lh less
+  564  ls -lh less
+  565  cowsay
+  566  sudo apt install cowsay
+  567  cowsay
+  568  lolcat
+  569  sudo apt install lolcat
+  570  lolcat 
+  571  cowsay
+  572  sudo apt-get update
+  573  sudo apt-get upgrade
+  574  sudo dpkg -configure -a
+  575  sudo rm /var/lib/dpkg/info/*.postrm sudo rm /var/lib/dpkg/info/*.list
+  576  sudo rm /var/lib/dpkg/info/*.postrm sudo rm /var/lib/dpkg/info/*.listsudo apt-get clean all sudo apt-get update sudo apt-get upgrade
+  577  sudo rm /var/lib/apt/lists/* sudo rm /var/lib/apt/lists/partial/* sudo apt-get update
+  578  cd
+  579  sudo rm /var/lib/apt/lists/* sudo rm /var/lib/apt/lists/partial/* sudo apt-get update
+  580  sudo apt-get update
+  581  sudo apt-get upgrade
+  582  sudo rm -rf /var/lib/apt/lists/* 
+  583  sudo apt-get update
+  584  sudo apt-get upgrade
+  585  sudo apt install cowsay lolcat
+  586  sudo apt install cowsay
+  587  sudo apt install lolcat
+  588  sudo apt install lolcat
+  589  --configure
+  590  sudo apt-get install lolcat
+  591  cd
+  592  history
+  593  grep
+  594  ls
+  595  cd Videos/
+  596  ls
+  597  mv Experimentos/ ../personalProjects/
+  598  ls
+  599  cd ..
+  600  cd personalProjects/
+  601  ls
+  602  cd Experimentos/
+  603  ls
+  604  cd ..
+  605  history > personalProjects/Experimentos/ultimos_comandos.txt
