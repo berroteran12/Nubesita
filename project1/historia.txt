@@ -11,6 +11,6 @@ Frase: La disciplina tarte o temprano "VENCE A LA INTELIGENCIA!"
 
    (_)(_)       /- Ya estoy en la nubesita de GitHub :D
 _m_(* .*)___m -/
-__|__|__|__|__|
 
-Mensaje Secreto: "Esto se hizo desde la terminal"
+
+Mensaje secreto 2: "Este mensaje viene de GitHub"
